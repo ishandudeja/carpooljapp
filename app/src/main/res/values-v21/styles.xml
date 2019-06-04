@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@drawable/launcher_screen_with_logo</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--<item name="statusBarColor">@android:color/transparent</item>-->
+        <!--<item name="windowBackground">@drawable/launcher_screen_with_logo</item>-->
+    </style>
+</resources>
